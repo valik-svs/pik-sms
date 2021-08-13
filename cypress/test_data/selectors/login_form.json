@@ -1,0 +1,14 @@
+{
+
+    "btn_oauth": "[class^='header_nav_any']>[class^='header_any_icon']:last-child",
+    "input_phone_number": "[class^='login_dialog'] input",
+    "button_get_code": "[class^='login_dialog']>[class^='login_button__green']",
+
+    "sms_block": "[class^='login_smsBlock']",
+    "p_phone_number": "[class^='login_label_']>p:last",
+    "inputs_sms_code": "[class^='login_smsFields'] input",
+    "input_sms_code": "[class^='login_smsFields'] input:first",
+    "validation_input_sms_code": "[class^='login_errorText_']"
+
+
+}
