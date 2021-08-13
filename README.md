@@ -27,6 +27,8 @@ login page
 ### run test
 
 `npm install` for setup cypres
+
 `npx cypress run` - start testing in headless mode
+
 `npx cypress open` - open UI interface
 
