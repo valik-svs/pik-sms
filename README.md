@@ -4,7 +4,7 @@ project "https://pik-broker.ru/"
 
 AIM: Check SMS verification form
 
-## Test plan
+## Check list
 
 On SMS verification page:
 
