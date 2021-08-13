@@ -32,4 +32,4 @@ login page
 
 `npx cypress open` - open UI interface
 
-![video](https://raw.githubusercontent.com/valik-svs/pik-sms/main/cypress/videos/pik/todo.spec.js.mp4)
+https://raw.githubusercontent.com/valik-svs/pik-sms/main/cypress/videos/pik/todo.spec.js.mp4
