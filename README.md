@@ -1,6 +1,6 @@
 # pik-sms
 
-project "https://pik-broker.ru/"
+project `https://pik-broker.ru`
 
 AIM: Check SMS verification form
 
@@ -21,3 +21,12 @@ login page
 - Make sure that validation error is displayed for invalid SMS-code
 
 - Make sure that close button (X icon) closes the form
+
+- Make sure that under input field displayed entered phone number
+
+### run test
+
+`npm install` for setup cypres
+`npx cypress run` - start testing in headless mode
+`npx cypress open` - open UI interface
+
